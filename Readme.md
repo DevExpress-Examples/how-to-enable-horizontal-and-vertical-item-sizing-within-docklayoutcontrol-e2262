@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DockLayoutControl_Horz_Vert_Sizing/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DockLayoutControl_Horz_Vert_Sizing/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Enable horizontal and vertical item sizing within DockLayoutControl
 
 
